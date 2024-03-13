@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dprotos/content-schema/main/schemas/course.schema.json
+id: 'cltni6sdb0000mgjielh55317'
+title: 'Инфраструктур­ная платформа на основе Kubernetes'
+description: |
+  *Вы научитесь работать с популярным решением для оркестровки контейнерных приложений. 
+  Напишете полноценную платформу на основе Kubernetes и подготовитесь к экзамену Certified Kubernetes Administrator.*
+  >DevOps-инженеры используют Kubernetes (k8s) для управления нагрузками между контейнерами, автоматизируют развёртывание и обеспечивают приватность данных. 
+  Компании заинтересованы в услугах DevOps-инженеров, архитектурных инженеров, системных администраторов и разработчиков со знанием Kubernetes.
+lessons:
+  - 'lesson-1'

@@ -1,11 +1,8 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/dprotos/content-schema/main/schemas/course.schema.json
 id: 'cltni6sdb0000mgjielh55317'
-title: 'Название курсаааа'
+title: 'POWER BI'
 description: |
-  ## Описание курса в формате Markdown:
-  - Пункт 1
-  - Пункт 2
-  - Пункт 3
-  - Пункт [4](https://google.com)
+  *Освойте инструмент для бизнес-анализа и создания интерактивных отчётов.*
+  >Вы научитесь строить графики и дашборды, оценивать метрики без помощи программистов. Будете всегда в курсе статистики компании. Сможете построить систему сквозной аналитики, чтобы эффективно решать бизнес-задачи.
 lessons:
   - 'lesson-1'
